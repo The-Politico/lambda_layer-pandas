@@ -2,7 +2,16 @@
 
 # lambda_layer-pandas
 
-A lambda layer including numpy and pandas.
+An [AWS Lambda layer](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html).
+
+##### Runtimes
+
+- python3.6
+
+##### Dependencies
+
+- numpy
+- pandas
 
 ### ARN
 

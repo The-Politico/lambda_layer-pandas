@@ -1,6 +1,8 @@
 build:
 	sh ./build.sh
 
-deploy:
+init:
 	terraform init
+
+deploy:
 	terraform apply
